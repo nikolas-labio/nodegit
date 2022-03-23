@@ -16,7 +16,6 @@
 !/generate/input/*.json
 
 /generate/missing-tests.json
-/binding.gyp
 
 # Generated vendor files
 /vendor/openssl/
